@@ -62,7 +62,7 @@
         maleList: [],
         femaleList: [],
         search: '',
-        placeholder: '圣墟',
+        placeholder: '甜甜爱看什么就搜什么',
         home: true,
       }
     },

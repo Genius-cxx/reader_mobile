@@ -58,7 +58,7 @@
           },
           {
             type: 'collectorCount',
-            name: '最多收藏',
+            name: '更多收藏',
             duration: 'all'
           }
         ],
